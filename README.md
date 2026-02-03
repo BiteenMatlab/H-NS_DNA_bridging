@@ -25,6 +25,6 @@ This repository contains the MATLAB code used in **Way et al.** to generate loca
 ### Supporting Scripts
 
 - **`supporting_scripts/`**
-  - Feret diameter utilities — third-party Feret-diameter tools by **Steve Eddins (MathWorks)**, archived here because the original MathWorks File Exchange link is no longer accessible.
+  - Feret diameter utilities — third-party Feret-diameter tools by **Steve Eddins (MathWorks)**, archived here because the original MathWorks File Exchange link is no longer accessible (accessed in 2019).
 
   - `anglevec.m` — utility function to compute the angle between two 2D vectors.
